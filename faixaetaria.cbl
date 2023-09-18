@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: GABRIELA BARBOSA
+      * Date: 08/09/2023
+      * Purpose: INFORMAR FAIXA ETÁRIA
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
